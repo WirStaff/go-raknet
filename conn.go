@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"context"
 	"fmt"
-	"github.com/sandertv/go-raknet/internal/message"
+	"github.com/WirStaff/go-raknet/internal/message"
 	"net"
 	"sync"
 	"sync/atomic"
