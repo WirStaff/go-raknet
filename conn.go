@@ -14,7 +14,7 @@ import (
 const (
 	// currentProtocol is the current RakNet protocol version. This is Minecraft
 	// specific.
-	currentProtocol byte = 11
+	currentProtocol byte = 6
 
 	maxMTUSize    = 1400
 	maxWindowSize = 2048
